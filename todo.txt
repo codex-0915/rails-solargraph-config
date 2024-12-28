@@ -1,0 +1,3 @@
+# TODO:
+* Update the script, use ruby instead of Python
+* Create documentation for this config
